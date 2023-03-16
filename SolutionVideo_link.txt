@@ -8,9 +8,9 @@
  
 My experience working on this project:
 
-- I got the opportunity to revise all my Sql concepts, and was able to use them.
+- I got the opportunity to revise all my concepts, and was able to use them.
 
-- I got difficulty using concepts like window functions and cte's. However, after this I'm quite confident.
+- After fter this I'm quite confident.
 
 -----------------------------------------------------------------------
 
